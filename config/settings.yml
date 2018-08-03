@@ -3,3 +3,9 @@ user:
   max_email: 255
   min_pass: 6
 remember_me: "1"
+paginate:
+  per_page: 10
+gravatar:
+  size: 50
+  size_default: 80
+

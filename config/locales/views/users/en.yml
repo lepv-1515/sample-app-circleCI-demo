@@ -7,4 +7,13 @@ en:
       password: "Password"
       confirmation: "Confirmation"
       submit: "Create my account"
+    edit:
+      edit_user: "Edit user"
+      submit: "Save change"
+      change_avatar: "Change"
+    index:
+      all_users: "All users"
+    user:
+      delete: "Delete"
+      sure?: "You sure?"
 
