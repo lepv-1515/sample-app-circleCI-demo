@@ -13,9 +13,17 @@ en:
       change_avatar: "Change"
     index:
       all_users: "All users"
+    show:
+      microposts: "Microposts"
     user:
-      delete: "Delete"
+      delete: "delete"
       sure?: "You sure?"
     show:
       microposts: "Microposts"
-
+    follow:
+      submit: "Follow"
+    unfollow:
+      submit: "Unfollow"
+    show_follow:
+      microposts: "Microposts:"
+      my_profile: "View my proflie"
