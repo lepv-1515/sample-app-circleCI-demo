@@ -1,0 +1,7 @@
+en:
+  microposts:
+    micropost:
+      posted: "Posted"
+      ago: "ago."
+      delete: "delete"
+      sure: "You sure?"

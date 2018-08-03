@@ -9,6 +9,7 @@ en:
       text_2: "sample application."
       body_link_signup: "Sign up now!"
       alt_image: "Rails logo"
+      micropost_feed: "Micropost Feed"
     help:
       help: "Help"
       text_1: "Get help on the Ruby on Rails Tutorial at the"

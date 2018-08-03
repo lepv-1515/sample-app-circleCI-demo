@@ -16,4 +16,6 @@ en:
     user:
       delete: "Delete"
       sure?: "You sure?"
+    show:
+      microposts: "Microposts"
 
