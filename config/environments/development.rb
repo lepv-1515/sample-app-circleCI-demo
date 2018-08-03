@@ -55,6 +55,7 @@ Rails.application.configure do
   config.assets.quiet = true
 
   # config email preview
+
   # config.action_mailer.raise_delivery_errors = true
   # config.action_mailer.delivery_method = :test
   # host = "localhost:3000" # use your local dev host

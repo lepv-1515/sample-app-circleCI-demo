@@ -1,0 +1,11 @@
+en:
+  password_resets:
+    new:
+      forgot_pass: "Forgot password"
+      email: "Email"
+      submit: "Submit"
+    edit:
+      reset_pass: "Reset password"
+      password: "Password"
+      confirmation: "Confirmation"
+      update: "Update"

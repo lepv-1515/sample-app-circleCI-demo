@@ -4,6 +4,7 @@ en:
       login: "Log in"
       email: "Email"
       password: "Password"
+      forgot_pass: "(forgot password)"
       new_user?: "New user?"
       remember_me: "Remember me on this computer"
       signup: "Sign up now!"
