@@ -1,0 +1,5 @@
+en:
+  users:
+    new:
+      signup: "Sign up"
+      p: "This will be a signup page for new users."

@@ -1,13 +1,13 @@
 <% provide :title, t(".about") %>
 <h1><%= t ".about" %></h1>
 <p>
-  <%= t ".p1" %>
-  <%= link_to raw(t ".body_link_1"), t(".link_1") %>
-  <%= t ".p2" %>
-  <%= link_to raw(t ".body_link_2"), t(".link_2") %>
-  <%= t ".p3" %>
-  <%= link_to raw(t ".body_link_3"), t(".link_3") %>
-  <%= t ".p4" %>
-  <%= link_to raw(t ".body_link_4"), t(".link_4") %>
-  <%= t ".p5" %>
+  <%= t ".text_1" %>
+  <%= link_to raw(t ".body_link_1"), "http://www.railstutorial.org/" %>
+  <%= t ".text_2" %>
+  <%= link_to t(".body_link_2"), "http://www.railstutorial.org/book" %>
+  <%= t ".text_3" %>
+  <%= link_to t(".body_link_3"), "http://screencasts.railstutorial.org/" %>
+  <%= t ".text_4" %>
+  <%= link_to t(".body_link_4"), "http://rubyonrails.org/" %>
+  <%= t ".text_5" %>
 </p>

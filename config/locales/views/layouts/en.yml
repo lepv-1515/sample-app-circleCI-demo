@@ -2,3 +2,17 @@ en:
   layouts:
     application:
       base_title: "Ruby on Rails Tutorial Sample App"
+    footer:
+      text_1: "The"
+      text_2: "by"
+      body_link_1: "Ruby on Rails Tutorial"
+      body_link_2: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+    header:
+      sample_app: "Sample App"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+
