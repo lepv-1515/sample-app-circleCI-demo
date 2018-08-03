@@ -1,0 +1,9 @@
+en:
+  sessions:
+    new:
+      login: "Log in"
+      email: "Email"
+      password: "Password"
+      new_user?: "New user?"
+      signup: "Sign up now!"
+
