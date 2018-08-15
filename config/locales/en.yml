@@ -30,4 +30,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-
+  users:
+    create:
+      message: "Welcome to the Sample App!"
