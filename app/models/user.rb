@@ -8,7 +8,8 @@ class User < ApplicationRecord
                     format: {with: VALID_EMAIL_REGEX},
                     uniqueness: {case_sensitive: false}
   has_secure_password
-  validates :password, presence: true, length: {minimum: Settings.user.min_pass}
+  validates :password, presence: true, allow_nil: true,
+                       length: {minimum: Settings.user.min_pass}
 
   def self.new_token
     SecureRandom.urlsafe_base64

@@ -31,7 +31,13 @@
 en:
   users:
     create:
-      message: "Welcome to the Sample App!"
+      success_mess: "Welcome to the Sample App!"
+    update:
+      success_mess: "Update profile success!"
+    destroy:
+      success_mess: "User deleted!"
+    logged_in_user:
+      warning_mess: "Please log in!"
   sessions:
     create:
-      message: "Invalid email/password combination"
+      danger_mess: "Invalid email/password combination"
