@@ -31,13 +31,21 @@
 en:
   users:
     create:
-      success_mess: "Welcome to the Sample App!"
+      info_mess: "Please check your email to activate your account!"
     update:
       success_mess: "Update profile success!"
     destroy:
       success_mess: "User deleted!"
     logged_in_user:
       warning_mess: "Please log in!"
+  account_activations:
+    edit:
+      success_mess: "Account activated!"
+      danger_mess: "Invalid activation link"
   sessions:
     create:
+      warning_mess: "Account not activated. Check your email for the activation link."
       danger_mess: "Invalid email/password combination"
+  user_mailer:
+    account_activation:
+        activation: "Account activation"

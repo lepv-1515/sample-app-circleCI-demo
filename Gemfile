@@ -30,6 +30,7 @@ group :development, :test do
 end
 
 group :development do
+  gem "listen"
   gem "web-console", ">= 3.3.0"
 end
 
