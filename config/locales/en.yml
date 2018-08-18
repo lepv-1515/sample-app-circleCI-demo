@@ -48,4 +48,15 @@ en:
       danger_mess: "Invalid email/password combination"
   user_mailer:
     account_activation:
-        activation: "Account activation"
+      activation: "Account activation"
+    password_reset:
+      pass_reset: "Password reset"
+  password_resets:
+    create:
+      info_mess: "Email sent with password reset instructions"
+      danger_mess: "Email address not found"
+    update:
+      error_mess: "can't be empty"
+      success_mess: "Password has been reset."
+    check_expiration:
+      danger_mess: "Password reset has expired."

@@ -5,4 +5,10 @@ en:
       hello: "Hi"
       welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
       activate: "Activate"
-
+    password_reset:
+      pass_reset: "Password reset"
+      text_1: "To reset your password click the link below:"
+      reset_pass: "Reset password"
+      text_2: "This link will expire in two hours."
+      text_3: "If you did not request your password to be reset, please ignore this email and
+             your password will stay as it is."
