@@ -58,5 +58,12 @@ en:
     update:
       error_mess: "can't be empty"
       success_mess: "Password has been reset."
-    check_expiration:
+    check_expire:
       danger_mess: "Password reset has expired."
+  microposts:
+    create:
+      success_create: "Micropost created!"
+    destroy:
+      success_deleted: "Micropost deleted!"
+    correct_user:
+      permission: "You don’t have permission"
