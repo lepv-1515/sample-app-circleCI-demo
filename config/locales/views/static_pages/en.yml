@@ -1,6 +1,7 @@
 en:
   static_pages:
     home:
+      micropost_feed: "Micropost Feed"
       home: "Home"
       wellcome: "wellcome to the Sample App"
       text_1: "This is the home page for the"
