@@ -38,6 +38,8 @@ en:
       success_mess: "User deleted!"
     logged_in_user:
       warning_mess: "Please log in!"
+    following: "Following"
+    followers: "Followers"
   account_activations:
     edit:
       success_mess: "Account activated!"

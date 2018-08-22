@@ -9,8 +9,10 @@ en:
       placeholder: "Compose new micropost..."
       submit: "Post"
     user_info:
-      my_profile: "view my profile"
+      my_profile: "View my profile"
       micropost:
         one: "1 micropost"
         other: "%{count} microposts"
-
+    stats:
+      following: "following"
+      followers: "followers"
