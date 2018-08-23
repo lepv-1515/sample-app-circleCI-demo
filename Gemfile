@@ -28,15 +28,16 @@ gem "mini_magick", "4.7.0"
 gem "rails-controller-testing"
 gem "rubocop", "~> 0.54.0", require: false
 gem "will_paginate", "3.1.6"
+gem "figaro"
 
 group :development, :test do
   gem "byebug", platforms: %i(mri mingw x64_mingw)
+  gem "sqlite3"
 end
 
 group :development do
   gem "listen"
   gem "web-console", ">= 3.3.0"
-  gem "sqlite3"
 end
 
 group :test do
